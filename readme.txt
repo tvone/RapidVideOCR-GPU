@@ -1,0 +1,1 @@
+https://swhl.github.io/RapidVideOCR/docs/blog/-rec_other_lan/

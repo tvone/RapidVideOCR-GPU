@@ -1,0 +1,2 @@
+rapid-videocr
+rapidocr_paddle
